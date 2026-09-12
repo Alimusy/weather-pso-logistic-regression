@@ -5,7 +5,7 @@
 
 
 # ── CELL 1: Install Dependencies ─────────────────────────────
-!pip install pyswarms imbalanced-learn scikit-learn pandas numpy matplotlib seaborn joblib -q
+# (Colab magic, run this in a shell instead) !pip install pyswarms imbalanced-learn scikit-learn pandas numpy matplotlib seaborn joblib -q
 
 
 # ── CELL 2: Imports ──────────────────────────────────────────

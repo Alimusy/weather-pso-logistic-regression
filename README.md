@@ -4,6 +4,16 @@ Next-day rainfall prediction on the Rain in Australia (weatherAUS) dataset,
 comparing Logistic Regression on all features against Logistic Regression on a
 PSO-selected subset.
 
+## Open it
+
+PSO search and evaluation:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Alimusy/weather-pso-logistic-regression/blob/main/notebooks/pso_lr_corrected.ipynb)
+
+Deploy the app yourself, one click, free:
+
+[![Deploy on Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Alimusy/weather-pso-logistic-regression&branch=main&mainModule=app/app.py)
+
 ## Method
 
 1. 22 features after preprocessing; PSO searches subsets using classifier

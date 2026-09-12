@@ -1,0 +1,56 @@
+{
+  "selected_features": [
+    "MinTemp",
+    "Rainfall",
+    "Sunshine",
+    "WindGustDir",
+    "WindGustSpeed",
+    "WindDir9am",
+    "WindSpeed3pm",
+    "Humidity9am",
+    "Humidity3pm",
+    "Pressure9am",
+    "Pressure3pm",
+    "Cloud9am",
+    "Cloud3pm",
+    "Temp9am",
+    "Temp3pm",
+    "RainToday",
+    "Month_sin"
+  ],
+  "dropped_features": [
+    "MaxTemp",
+    "Evaporation",
+    "WindDir3pm",
+    "WindSpeed9am",
+    "Month_cos"
+  ],
+  "selected_idx": [
+    0,
+    2,
+    4,
+    5,
+    6,
+    7,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "pso_search_time": 3391.558126399992,
+  "pso_options": {
+    "c1": 2.0,
+    "c2": 2.0,
+    "w": 0.9,
+    "k": 5,
+    "p": 2
+  },
+  "final_cost": 0.3806546516024244
+}
